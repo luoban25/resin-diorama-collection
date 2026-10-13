@@ -1,0 +1,7 @@
+node_modules/
+dist/
+*.local
+*.zip
+*.tsbuildinfo
+.sites-runtime/
+.openai/*.local.json
